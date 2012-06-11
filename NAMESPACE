@@ -1,0 +1,4 @@
+export(parDEoptim)
+export(checkBounds)
+exportClasses(parDEoptim)
+importFrom("DEoptim", DEoptim)

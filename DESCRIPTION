@@ -1,0 +1,10 @@
+Package: parDEoptim
+Type: Package
+Title: Parallel Differential Evolution
+Version: 0.1
+Date: 2012-01-22
+Author: Zach Mayer
+Maintainer: <zach.mayer@gmail.com>
+Depends: R (>= 1.14.0), methods, DEoptim, foreach, iterators (>= 1.0.0), codetools, utils
+Description: Parallel Differential Evolution
+License: GPL version 2 or newer
